@@ -4,6 +4,10 @@ Who is behind Analytix Audit?
 
 We have a team of analysts specialized in blockchain technology & solidity programming, with wide experience on the ethereum and binance smart chain network.
 
+Is Analytix Audit official partner of Pinksale?
+
+Yes, you can import our audit in your presale if you holding it on pinksale.
+
 What are the goal of Analytix Audit?
 
 Our goal is to eliminate all threats on the binance network and on the ethereum network.
