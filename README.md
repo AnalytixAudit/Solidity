@@ -18,7 +18,7 @@ You can request a free check on our telegram using the hastag #check, we also pr
 
 Is Analytix KYC free?
 
-We don't provide KYC at the moment.
+We charge 97$ for KYC
 
 How to prevent scam from fake github:
 
